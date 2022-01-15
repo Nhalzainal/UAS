@@ -180,10 +180,10 @@ else :
 
  ![gambar](ss/ss4.png)
 
- # Menghapus data 
+ # Mengubah data 
 
  ![gambar](ss/ss5.png)
 
- # Mengubah data
+ # Menghapus data
 
  ![gambar](ss/ss6.png)
